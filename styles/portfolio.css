@@ -21,6 +21,18 @@ body {
  padding: 15px 35px;
 }
 
+.section-title {
+ color: #181818;
+ text-align: center;
+ font-size: 35px;
+ font-weight: 700;
+}
+.section-description{
+ color:#757575 ;
+ text-align: center ;
+ font-style: 18px;
+}
+
 /* nav related styles */
 
 nav {
@@ -65,7 +77,8 @@ nav a {
  align-items: center;
  justify-content: space-between;
 }
-.banner-content{
+
+.banner-content {
  max-width: 585px;
 }
 
@@ -84,9 +97,13 @@ nav a {
  margin-top: 5px;
  margin-bottom: 20px;
 }
+
 /* main section styles */
 
 /* about section styles */
-.about{
+.about {
  padding: 130px;
+ border-radius: 10px;
+ background: #FFF8F3;
+ margin: 130px 0;
 }
