@@ -122,7 +122,7 @@ main section {
  padding: 130px;
  border-radius: 10px;
  background: #FFF8F3;
- margin: 130px 0;
+ margin: 110px 0;
 }
 
 .about-info-container {
@@ -137,16 +137,16 @@ main section {
 /* skill related styles */
 
 #what-i-do-description {
- padding: 30px 150px;
+ padding: 30px 140px;
 }
 
 .skills-container {
  display: flex;
- gap: 24px;
+ gap: 20px;
 }
 
 .skill {
- padding: 30px;
+ padding: 20px;
  border-radius: 5px;
  background: #FFF;
  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
@@ -167,7 +167,7 @@ main section {
 
 .resume-container {
  display: flex;
- gap: 50px;
+ gap: 40px;
 }
 
 
@@ -175,12 +175,12 @@ main section {
  color: #474747 ;
  font-size:25px ;
  font-weight: 700;
- margin-bottom: 10px;
+ margin-bottom: 8px;
 
 
 }
 .resume-item-info{
- margin-bottom: 20px;
+ margin-bottom: 15px;
  margin-top: 0px;
 }
 .resume-item-description,
@@ -188,17 +188,17 @@ main section {
  color: #757575;
 }
 .resume-container hr{
- margin: 30px;
+ margin: 20px;
 }
 /* hf */
 .download-cv{
  text-align: center;
- margin-top: 50px;
+ margin-top: 40px;
 }
 /* Footer style */
 footer{
- margin-top: 100px;
- gap: 100px;
+ margin-top: 80px;
+ gap: 80px;
  display: flex;
  background: #FFF8F3;
  padding: 130px 200px;
@@ -217,7 +217,7 @@ footer{
 
 .contact input[type="text"], .contact input[type="email"], textarea{
  display: block;
- margin-bottom: 25px ;
+ margin-bottom: 20px ;
  padding: 18px 35px;
  color: #757575;
  border-top: 5px;
