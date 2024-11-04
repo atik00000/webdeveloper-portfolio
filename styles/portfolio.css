@@ -114,7 +114,7 @@ main {
 }
 
 main section {
- margin: 130px;
+ margin: 10px;
 }
 
 /* about section styles */
@@ -122,7 +122,7 @@ main section {
  padding: 120px;
  border-radius: 10px;
  background: #FFF8F3;
- margin: 80px 0;
+ margin: 50px 0;
 }
 
 .about-info-container {
@@ -137,12 +137,12 @@ main section {
 /* skill related styles */
 
 #what-i-do-description {
- padding: 30px 140px;
+ padding: 30px 100px;
 }
 
 .skills-container {
  display: flex;
- gap: 20px;
+ gap: 10px;
 }
 
 .skill {
@@ -193,15 +193,15 @@ main section {
 /* hf */
 .download-cv{
  text-align: center;
- margin-top: 40px;
+ margin-top: 35px;
 }
 /* Footer style */
 footer{
- margin-top: 80px;
- gap: 80px;
+ margin-top: 50px;
+ gap: 50px;
  display: flex;
  background: #FFF8F3;
- padding: 130px 200px;
+ padding: 120px 200px;
 }
 .footer-colum{
  width: 50%;
